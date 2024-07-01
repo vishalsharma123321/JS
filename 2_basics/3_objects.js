@@ -1,3 +1,10 @@
+// we can do objects single ton and also littrels 
+
+// below is the example of the littrels
+// this is how decler littrels object 
+// const littrelsObject = {}
+
+
 const jsuser = {
     "full name ": "vishl subhah sharma ",
     name : "vishal sharma ",
